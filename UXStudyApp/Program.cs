@@ -10,6 +10,7 @@ namespace UXStudyApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world from the issue123 branch");
         }
     }
 }
